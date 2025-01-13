@@ -42,6 +42,6 @@ public class Lecture3 {
         //format for terminal:
         //javac <name>.java (compliles)
         //java <name> <args> (runs file) (args if applicable)
-
+        //
     }
 }
