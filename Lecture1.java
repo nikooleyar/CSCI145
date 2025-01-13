@@ -5,3 +5,4 @@ public class Lecture1 {
         System.out.printf("%s%n%n%d%n%s%n%s", "FORMAT", 10, "new thing", "I want coffee"); //uses format stuff to print string
     }
 }
+// intro to java
