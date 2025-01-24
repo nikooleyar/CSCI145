@@ -1,0 +1,7 @@
+title:Moby-Dick
+year:1851
+author:Herman Melville
+
+title:Walden
+year:1854
+author: Henry David Thoreau
