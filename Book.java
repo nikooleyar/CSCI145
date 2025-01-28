@@ -1,17 +1,19 @@
 class Book {
-        static String title;
-        static int year;
-        static String author;
+    String title;
+    int year;
+    String author;
 
-        /*Book(String title, int year, String author) {
-            this.title = title;
-            this.year = year;
-            this.author = author; 
-        } */
+    Book(String title, int year, String author) {
 
-        public static void displayInfo(String newName, int newYear, String newAuthor) {
-            title = newName;
-            year = newYear;
-            author = newAuthor;
+        this.title = title;
+        this.year = year;
+        this.author = author;
+        }
+        
+        void displayInfo() {
+            System.out.println("Title: " + title);
+            System.out.println("Year: " + year);
+            System.out.println("Author: " + author);
         }
     }
+    
